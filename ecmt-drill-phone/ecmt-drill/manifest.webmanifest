@@ -1,0 +1,17 @@
+{
+  "name": "ECMT Drill — эконометрика",
+  "short_name": "ECMT Drill",
+  "description": "Тренажёр к экзамену по эконометрике (GSOM SPbU): тесты, расчёты, кейсы, пробный вариант.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#170a06",
+  "theme_color": "#170a06",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
